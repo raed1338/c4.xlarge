@@ -1,0 +1,75 @@
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+FL-POINT  Copy:      16287.24 MB/s
+FL-POINT  Scale:     16261.40 MB/s
+FL-POINT  Add:       20540.12 MB/s
+FL-POINT  Triad:     20356.08 MB/s
+---
+FL-POINT  AVERAGE:   18361.21 MB/s
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+FL-POINT  Copy:      16288.28 MB/s
+FL-POINT  Scale:     16280.46 MB/s
+FL-POINT  Add:       20584.57 MB/s
+FL-POINT  Triad:     20377.28 MB/s
+---
+FL-POINT  AVERAGE:   18382.65 MB/s
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+FL-POINT  Copy:      16303.23 MB/s
+FL-POINT  Scale:     16270.21 MB/s
+FL-POINT  Add:       20558.82 MB/s
+FL-POINT  Triad:     20351.95 MB/s
+---
+FL-POINT  AVERAGE:   18371.05 MB/s
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+FL-POINT  Copy:      16285.40 MB/s
+FL-POINT  Scale:     16279.51 MB/s
+FL-POINT  Add:       20570.28 MB/s
+FL-POINT  Triad:     20364.15 MB/s
+---
+FL-POINT  AVERAGE:   18374.84 MB/s
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+FL-POINT  Copy:      16321.46 MB/s
+FL-POINT  Scale:     16299.11 MB/s
+FL-POINT  Add:       20487.11 MB/s
+FL-POINT  Triad:     20334.25 MB/s
+---
+FL-POINT  AVERAGE:   18360.48 MB/s
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+

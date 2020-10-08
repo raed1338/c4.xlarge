@@ -1,0 +1,15 @@
+Ping: 0.999 ms
+Download: 867.53 Mbit/s
+Upload: 4.17 Mbit/s
+Ping: 0.92 ms
+Download: 868.51 Mbit/s
+Upload: 4.17 Mbit/s
+Ping: 1.31 ms
+Download: 868.04 Mbit/s
+Upload: 4.17 Mbit/s
+Ping: 0.949 ms
+Download: 854.73 Mbit/s
+Upload: 4.17 Mbit/s
+Ping: 1.827 ms
+Download: 866.49 Mbit/s
+Upload: 4.17 Mbit/s
